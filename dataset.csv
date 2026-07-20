@@ -1,0 +1,11 @@
+Name,Age,Salary,Department
+John,25,35000,IT
+Alice,30,45000,HR
+Bob,,40000,Finance
+David,28,50000,IT
+Emma,35,55000,HR
+John,25,35000,IT
+Chris,120,700000,Finance
+Sophia,29,,Marketing
+James,31,47000,IT
+Olivia,27,43000,HR
